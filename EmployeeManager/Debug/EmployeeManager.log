@@ -1,0 +1,7 @@
+﻿  Date.cpp
+  Employee.cpp
+  List.cpp
+  Main.cpp
+  Generating Code...
+E:\Study\Giải thuật và lập trình\EmployeeManager\EmployeeManager\Employee.cpp(89,61): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  EmployeeManager.vcxproj -> E:\Study\Giải thuật và lập trình\EmployeeManager\Debug\EmployeeManager.exe
